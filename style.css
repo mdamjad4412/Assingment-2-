@@ -1,0 +1,28 @@
+.body{
+  margin: auto;
+  padding: auto;
+  /* background-color: black; */
+}
+
+.nav{
+  display: flex;
+  justify-content: space-between;
+  /* text-decoration: none; */
+}
+
+.ancor{
+  text-decoration: none;
+  gap: 5px;
+}
+
+.hero{
+ display: flex;
+ justify-content: space-between;
+}
+
+.img{
+  /* width: 100%; */
+  height: 100%;
+  width: 100%;
+
+}
