@@ -1,8 +1,9 @@
 .body{
   margin: auto;
   padding: auto;
-  /* background-color: black; */
+  background-color: orchid;
 }
+
 
 .nav{
   display: flex;
@@ -18,11 +19,33 @@
 .hero{
  display: flex;
  justify-content: space-between;
+ border: 2px solid purple;
+ padding: 10px;
 }
 
-.img{
-  /* width: 100%; */
-  height: 100%;
-  width: 100%;
+.get{
+  font-size: 80px;
+}
 
+.habit{
+  text-align: center;
+  margin-top: 10px;
+}
+
+#imgs{
+  display: flex;
+  gap: 40px;
+  padding: 5px;
+  border: 2px solid  orangered;
+  /* margin-left: 40px; */
+}
+
+.run{
+  display: flex;
+
+}
+
+.igs{
+  width: 0px;
+  height: 0px;
 }
